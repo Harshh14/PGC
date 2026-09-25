@@ -1,0 +1,5 @@
+# Performance Analysis of Sequential, OpenMP, MPI, and CUDA
+
+> A comparative study of sequential and parallel computing approaches using CPU, shared-memory, distributed-memory, and GPU-based execution.
+
+---
