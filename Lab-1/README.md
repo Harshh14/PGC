@@ -96,7 +96,7 @@ The program files for each computing approach are organized separately according
 |---|---|---|---|
 | **Sequential CPU** | Part A | [View Program](./source_codes/matrix_sequential.c) | Sequential matrix multiplication executed using a single CPU thread. |
 | **OpenMP** | Part B | [View Program](./source_codes/OpenMP.c) | Matrix multiplication using multiple CPU threads with shared memory. |
-| **MPI Distributed** | Part C | [View Program](./Part-C-MPI/program/) | Distributed matrix multiplication using multiple MPI processes and inter-process communication. |
+| **MPI Distributed** | Part C | [View Program](./source_codes/MPImuilt.c) | Distributed matrix multiplication using multiple MPI processes and inter-process communication. |
 | **CUDA GPU** | Part D | [View Program](./Part-D-CUDA/program/) | Matrix multiplication accelerated using parallel GPU execution with CUDA. |
 
 ### Source Code Organization
